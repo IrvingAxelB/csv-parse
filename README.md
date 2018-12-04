@@ -3,7 +3,7 @@
 First, clone the repo via git:
 
 ```js
-git clone
+https://github.com/IrvingAxelB/csv-parse.git
 ```
 
 and then install dependencies:
